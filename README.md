@@ -13,6 +13,10 @@ Servidor nginx que corre localmente con Docker Compose y sirve un "Hola Mundo" d
 
 El directorio `src` se monta como volumen en `/usr/share/nginx/html` dentro del contenedor.
 
+## Requisitos
+
+- Docker Desktop instalado y en ejecución (con la virtualización activada en la BIOS).
+
 ## Uso
 
 ```bash
